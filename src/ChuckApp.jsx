@@ -12,7 +12,9 @@ export function ChuckApp() {
     <>  
         <Navbar />
                
-        <BrowserRouter>
+        <BrowserRouter
+        basename={import.meta.env.DEV ? '/' : '/chuck-jokes-app/'} 
+        >
 
         <Routes>
             <Route path="/" element={ <ChuckCategories /> }></Route>
