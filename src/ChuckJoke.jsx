@@ -3,7 +3,7 @@ import { useParams, Link } from "react-router-dom"
 
 import * as API from '../src/services/getChuck'
 
-import { Logo } from "./components/Logo"
+
 
 
 export function ChuckJoke() {

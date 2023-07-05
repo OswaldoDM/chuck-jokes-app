@@ -3,7 +3,7 @@ import { useEffect, useState } from "react";
 import * as API from '../src/services/getChuck';
 
 import { AllCategories } from "./components/AllCategories";
-import { Logo } from "./components/Logo";
+
 
 export function ChuckCategories() {
 
