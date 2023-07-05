@@ -24,7 +24,7 @@ export function ChuckCategories() {
     <section>
     <div className="container app">
 
-      <Logo />
+      {/* <Logo /> */}
 
       <h1 className="font-04B">Choose a Category</h1>
       
