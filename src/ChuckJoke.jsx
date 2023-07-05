@@ -34,7 +34,7 @@ export function ChuckJoke() {
     <>
     <div className="container jokes">
 
-        {/* <Logo /> */}
+        
 
         {
             ( !joke ) ? 
