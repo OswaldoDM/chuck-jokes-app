@@ -25,14 +25,14 @@ body {
 
 @font-face {
   font-family: 'Blanka';
-  src: url('../assets/Blanka.otf') format('truetype');
+  src: url('./assets/Blanka.otf') format('truetype');
   font-style: normal;
   font-weight: normal;
 }
 
 @font-face {
   font-family: '04B';
-  src: url('../assets/04B.TTF') format('truetype');
+  src: url('./assets/04B.TTF') format('truetype');
   font-style: normal;
   font-weight: normal;
 }

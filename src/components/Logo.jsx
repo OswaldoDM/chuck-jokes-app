@@ -1,4 +1,4 @@
-import logo from '../../assets/chucklogo.png'
+import logo from '../assets/chucklogo.png'
 
 export function Logo() {
 
