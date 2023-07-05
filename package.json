@@ -1,6 +1,5 @@
 {
-  "name": "chuck-jokes-app",
-  "homepage": "/",
+  "name": "chuck-jokes-app",  
   "private": true,
   "version": "0.0.0",
   "type": "module",
